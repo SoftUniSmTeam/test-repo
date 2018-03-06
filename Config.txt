@@ -2,6 +2,6 @@ name = Atanas;
 size = 100;
 email = atanas@nasko.sm 
 
-name = Ilia;
+name = ilia;
 size = 200;
-email = lio@lion.sm;
+email = ilia111@yahoo.com;
