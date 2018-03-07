@@ -5,8 +5,6 @@ Zna4i i tuka moje da si 4atim,
 ostava i da go kriptirame :)
 
 Let's make a cake :)
-<<<<<<< HEAD
-No cake is made!
-=======
+
 Apple cake
->>>>>>> 4993beb6f97832957b284e88ffb0350392e23712
+
